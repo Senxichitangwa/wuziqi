@@ -153,3 +153,5 @@ while not finish:
                         finish = True
                         msg()
     flagNum *= -1
+
+    #阿里山地
